@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 from discord.ui import View, Button
 from config import TOKEN, PREFIX, LOG_CHANNEL_ID, SUPPORT_ROLE_ID, COMMAND_ROLE_ID
-from keep_alive import keep_alive
 import sys
 import os
 import asyncio
